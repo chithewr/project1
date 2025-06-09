@@ -264,18 +264,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0004890077, y: -0.0014424846}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.48, y: 0.09}
+    oldSize: {x: 0.16, y: 0.09}
     newSize: {x: 0.16, y: 0.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5, y: 0.1}
+  m_Size: {x: 0.16451478, y: 0.097115025}
   m_EdgeRadius: 0
 --- !u!212 &1520007729
 SpriteRenderer:
@@ -318,7 +318,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 1570390325, guid: d429824d90dea244b8f9deb68dff9d4d, type: 3}
+  m_Sprite: {fileID: -1699511386, guid: d429824d90dea244b8f9deb68dff9d4d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -338,8 +338,8 @@ Transform:
   m_GameObject: {fileID: 1520007727}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.5, y: -2.92, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 1}
+  m_LocalPosition: {x: -3.356, y: -2.9937, z: 0}
+  m_LocalScale: {x: 5.8992, y: 4.994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -615,7 +615,7 @@ Transform:
   m_GameObject: {fileID: 2110023876}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.49, y: -1.957, z: 0.013779947}
+  m_LocalPosition: {x: -3.363, y: -2.239, z: 0.013779947}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -730,6 +730,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Jump_Strength","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!95 &2110023883
@@ -785,8 +786,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.023875415}
-  m_Size: {x: 0.22449844, y: 0.2722492}
+  m_Offset: {x: 0, y: -0.00000003973643}
+  m_Size: {x: 0.22449844, y: 0.22449844}
   m_Direction: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
