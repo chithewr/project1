@@ -100,9 +100,9 @@ TextureImporter:
       name: platforms_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 55
-        width: 48
+        width: 32
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -121,9 +121,9 @@ TextureImporter:
       name: platforms_1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 39
-        width: 48
+        width: 32
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -142,9 +142,9 @@ TextureImporter:
       name: platforms_2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 23
-        width: 48
+        width: 32
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -163,9 +163,9 @@ TextureImporter:
       name: platforms_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 7
-        width: 48
+        width: 32
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -189,7 +189,7 @@ TextureImporter:
         width: 16
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
         width: 16
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
         width: 16
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
         width: 16
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,15 @@ TextureImporter:
     nameFileIdTable:
       platforms_0: -414853659
       platforms_1: 1570390325
+      platforms_10: 1801729068
       platforms_2: 1857236686
       platforms_3: -127639350
       platforms_4: 1378752608
       platforms_5: -1699511386
       platforms_6: 231168261
       platforms_7: 1620696401
+      platforms_8: 1585206218
+      platforms_9: 832300153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
